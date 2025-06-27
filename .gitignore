@@ -13,4 +13,5 @@ hs_err_pid*
 .cursor/
 .idea
 .bsp
+.scala-build
 */**/metals.sbt

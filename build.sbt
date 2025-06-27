@@ -1,4 +1,4 @@
-ThisBuild / scalaVersion := "2.13.16" // 或 Scala 3
+ThisBuild / scalaVersion := "3" // 或 Scala 3
 
 lazy val root = (project in file("."))
   .settings(
